@@ -1,0 +1,30 @@
+_repo: The-Lamp-and-the-Bell--A-Drama-In-Five-Acts_3768
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Millay, Edna St. Vincent
+    aliases:
+    - Boyd, Nancy
+    - Boissevain, Edna St. Vincent Millay
+    birthdate: 1892
+    deathdate: 1950
+    gutenberg_agent_id: '70'
+    url: http://www.gutenberg.org/2009/agents/70
+    wikipedia: http://en.wikipedia.org/wiki/Edna_St._Vincent_Millay
+description: Two sisters, separated by a suitor.
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3768'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Princesses -- Drama'
+- !lcsh 'Stepsisters -- Drama'
+- !lcsh 'American drama -- 20th century'
+- GITenberg
+title: 'The Lamp and the Bell: A Drama In Five Acts'
+url: http://www.gutenberg.org/ebooks/3768
